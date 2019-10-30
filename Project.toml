@@ -1,0 +1,12 @@
+name = "Tk_jll"
+uuid = "056b5f69-f28f-5060-ad8a-df43647a2b5c"
+version = "8.6.9+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Tcl_jll = "9fc9b8dd-f768-5d0d-bb0b-e65961e00eb6"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Xorg_libXft_jll = "2c808117-e144-5220-80d1-69d4eaa9352c"
+
+[compat]
+julia = "1.3"
